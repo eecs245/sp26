@@ -5,7 +5,7 @@ days:
   - date: "2026-06-15"
     events:
       - name: Lab 10
-        problems: ../resources/labs/lab10/
+        problems: /sp26/resources/labs/lab10/
         solutions: true
         type: lab
         title: Eigenvalues and Eigenvectors, Convexity
@@ -27,7 +27,7 @@ days:
   - date: "2026-06-17"
     events:
       - name: Lab 11
-        problems: ../resources/labs/lab11/
+        problems: /sp26/resources/labs/lab11/
         solutions: true
         type: lab
         title: Adjacency Matrices and Diagonalization
@@ -45,15 +45,11 @@ days:
         reading3_text: Ch. 10.4
         live_notes: resources/lecture-pdfs/lec13-filled.pdf
       - name: HW 10
-        problems: ../resources/homeworks/hw10/
-        solutions: true
         type: hw
         title: Eigenvalues and Eigenvectors
   - date: "2026-06-21"
     events:
       - name: HW 11
-        problems: ../resources/homeworks/hw11/
-        solutions: true
         type: hw
         title: Singular Value Decomposition
 ---

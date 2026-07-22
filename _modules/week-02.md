@@ -7,7 +7,7 @@ days:
       - name: Lab 2
         type: lab
         title: Empirical Risk and Simple Linear Regression
-        problems: ../resources/labs/lab02/
+        problems: /sp26/resources/labs/lab02/
         solutions: true
   - date: "2026-05-12"
     events:
@@ -27,13 +27,11 @@ days:
       - name: Lab 3
         type: lab
         title: Vectors and the Dot Product
-        problems: ../resources/labs/lab03/
+        problems: /sp26/resources/labs/lab03/
         solutions: true
       - name: HW 2
         type: hw
         title: Empirical Risk and Simple Linear Regression
-        problems: ../resources/homeworks/hw02/
-        solutions: true
   - date: "2026-05-14"
     events:
       - name: LEC 4
@@ -54,6 +52,4 @@ days:
       - name: HW 3
         type: hw
         title: Vectors and the Dot Product
-        problems: ../resources/homeworks/hw03/
-        solutions: true
 ---

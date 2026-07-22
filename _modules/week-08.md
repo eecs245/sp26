@@ -5,7 +5,7 @@ days:
   - date: "2026-06-22"
     events:
       - name: Lab 12
-        problems: ../resources/labs/lab12/
+        problems: /sp26/resources/labs/lab12/
         solutions: true
         type: lab
         title: Singular Value Decomposition

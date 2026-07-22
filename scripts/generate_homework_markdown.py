@@ -1884,7 +1884,7 @@ def compute_pdf_link(repo_root: Path, output_md: Path) -> str | None:
         web_path = pdf_path.relative_to(website_root)
     except ValueError:
         return None
-    return "/" + web_path.as_posix()
+    return "/sp26/" + web_path.as_posix()
 
 
 def compute_solutions_pdf_link(repo_root: Path, output_md: Path) -> str | None:
@@ -1897,7 +1897,7 @@ def compute_solutions_pdf_link(repo_root: Path, output_md: Path) -> str | None:
         web_path = solutions_pdf_path.relative_to(website_root)
     except ValueError:
         return None
-    return "/" + web_path.as_posix()
+    return "/sp26/" + web_path.as_posix()
 
 
 def fix_image_syntax(text: str) -> str:

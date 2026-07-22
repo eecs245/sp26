@@ -5,7 +5,7 @@ days:
   - date: "2026-06-08"
     events:
       - name: Lab 9
-        problems: ../resources/labs/lab09/
+        problems: /sp26/resources/labs/lab09/
         solutions: true
         type: lab
         title: Gradient Descent and Convexity
@@ -36,6 +36,4 @@ days:
       - name: HW 9
         type: hw
         title: "Multiple Linear Regression, Gradients"
-        problems: ../resources/homeworks/hw09/
-        solutions: true
 ---

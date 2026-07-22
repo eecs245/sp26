@@ -7,7 +7,7 @@ days:
       - name: Lab 4
         type: lab
         title: Projections, Span, and Linear Independence
-        problems: ../resources/labs/lab04/
+        problems: /sp26/resources/labs/lab04/
         solutions: true
   - date: "2026-05-19"
     events:
@@ -26,12 +26,10 @@ days:
         type: lab
         solutions: true
         title: Vector Spaces, Subspaces, Bases, and Dimension
-        problems: ../resources/labs/lab05/
+        problems: /sp26/resources/labs/lab05/
       - name: HW 4
         type: hw
-        solutions: true
         title: Projections, Span, and Linear Independence
-        problems: ../resources/homeworks/hw04/
   - date: "2026-05-21"
     events:
       - name: LEC 6

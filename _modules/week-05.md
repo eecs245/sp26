@@ -5,7 +5,7 @@ days:
   - date: "2026-06-01"
     events:
       - name: Lab 7
-        problems: ../resources/labs/lab07/
+        problems: /sp26/resources/labs/lab07/
         solutions: true
         type: lab
         title: Inverses and Projections
@@ -27,7 +27,7 @@ days:
   - date: "2026-06-03"
     events:
       - name: Lab 8
-        problems: ../resources/labs/lab08/
+        problems: /sp26/resources/labs/lab08/
         solutions: true
         type: lab
         title: Multiple Linear Regression; The Gradient Vector
@@ -46,15 +46,11 @@ days:
         reading3_text: Ch. 8.5
         live_notes: resources/lecture-pdfs/lec10-filled.pdf
       - name: HW 7
-        problems: ../resources/homeworks/hw07/
-        solutions: true
         type: hw
         title: Projections; Regression using Linear Algebra
   - date: "2026-06-07"
     events:
       - name: HW 8
-        problems: ../resources/homeworks/hw08/
-        solutions: true
         type: hw
         title: Multiple Linear Regression, Gradients
         note: No slip days allowed!

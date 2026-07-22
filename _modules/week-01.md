@@ -25,7 +25,7 @@ days:
       - name: Lab 1
         type: lab
         title: Math Foundations and Environment Setup
-        problems: ../resources/labs/lab01/
+        problems: /sp26/resources/labs/lab01/
         solutions: true
   - date: "2026-05-07"
     events:
@@ -54,7 +54,5 @@ days:
         url: "https://docs.google.com/forms/d/e/1FAIpQLSee14997ZWHuI-eYwNZHh4tI6i9Xu0kRLYMm_ve9uoSxbjVgA/viewform?usp=dialog"
       - name: HW 1
         type: hw
-        solutions: true
         title: Means, Sums, and Calculus
-        problems: ../resources/homeworks/hw01/
 ---

@@ -22,7 +22,7 @@ days:
   - date: "2026-05-27"
     events:
       - name: Lab 6
-        problems: ../resources/labs/lab06/
+        problems: /sp26/resources/labs/lab06/
         solutions: true
         type: lab
         title: Rank, Column Space, Null Space, and Inverses
@@ -47,15 +47,11 @@ days:
         note: Watch the supplemental videos!
         live_notes: resources/lecture-pdfs/lec08-filled.pdf
       - name: HW 5
-        problems: ../resources/homeworks/hw05/
-        solutions: true
         type: hw
         title: Matrices
   - date: "2026-05-31"
     events:
       - name: HW 6
-        problems: ../resources/homeworks/hw06/
-        solutions: true
         type: hw
         title: Rank and Inverses
 ---

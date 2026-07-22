@@ -112,8 +112,8 @@ mjx-container[jax="CHTML"][display="true"] {
 **due** for completion at 11:59PM Ann Arbor Time on Monday, June 22nd, 2026
 
 <div class="assignment-actions">
-<a class="btn btn-info assignment-pdf-button" href="/resources/labs/lab12/lab12.pdf" target="_blank">View as PDF ✏️</a>
-<a class="btn btn-info assignment-pdf-button" href="/resources/labs/lab12/lab12-solutions.pdf" target="_blank">Solutions PDF ✅</a>
+<a class="btn btn-info assignment-pdf-button" href="/sp26/resources/labs/lab12/lab12.pdf" target="_blank">View as PDF ✏️</a>
+<a class="btn btn-info assignment-pdf-button" href="/sp26/resources/labs/lab12/lab12-solutions.pdf" target="_blank">Solutions PDF ✅</a>
 </div>
 
 {: .yellow }
