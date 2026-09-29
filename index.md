@@ -28,9 +28,6 @@ EECS 245, Spring 2026 🌸 at the <b><span style="background-color: #FFCB05; col
 {{ staffer }}
 {% endfor %}
 
-{: .green }
-> Fill out both the [**End-of-Semester Survey**](https://docs.google.com/forms/d/e/1FAIpQLSeJWqWNigvfgkTmLlnkAObVmshZ7TW9wXmNVFBWxk90fi8gLA/viewform?usp=publish-editor) and [**Official Evaluations**](https://umich.bluera.com/umich/) by Tuesday, June 23rd for <b>1% of extra credit</b> to your overall grade.
-
 <a class="btn" style="background-color: #00274C; color: white;" data-current-week-link href="#{{ site.modules.first.title | slugify }}">Jump to the current week</a>
 
 {% for module in site.modules %}
