@@ -15,7 +15,7 @@ window.MathJax = {
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
 {: .red }
-**This is the course website for a previous iteration of the course. If you’re looking for the most recent course website, look at [eecs245.org](https://eecs245.org).** Links to lecture recordings below will still work, but other links may not.
+**This is the course website for a previous iteration of the course. If you’re looking for the most recent course website, look at [eecs245.org](https://eecs245.org).**
 
 # Mathematics for Machine Learning 🧠
 {: .no_toc }
